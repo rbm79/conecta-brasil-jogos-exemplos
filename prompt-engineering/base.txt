@@ -1,0 +1,23 @@
+A AWS (Amazon Web Services) é a plataforma de computação em nuvem da Amazon, lançada em 2006.
+
+Ela fornece serviços sob demanda, como computação, armazenamento, bancos de dados, redes, inteligência artificial e muito mais.
+
+O Amazon EC2 (Elastic Compute Cloud) permite executar servidores virtuais, chamados de instâncias EC2.
+
+O Amazon S3 (Simple Storage Service) é um serviço de armazenamento de objetos escalável, usado para armazenar arquivos.
+
+O Amazon RDS (Relational Database Service) permite criar e gerenciar bancos de dados relacionais como MySQL, PostgreSQL, Oracle e SQL Server.
+
+O AWS Lambda permite executar código sem gerenciar servidores. É ideal para funções pequenas e eventos automatizados.
+
+O Amazon CloudWatch é usado para monitoramento de recursos, métricas e logs.
+
+A região da AWS representa uma localização geográfica onde os recursos são hospedados. Cada região contém zonas de disponibilidade (Availability Zones), que são datacenters separados.
+
+O IAM (Identity and Access Management) é o serviço da AWS para gerenciar permissões e identidades de usuários.
+
+O Amazon VPC (Virtual Private Cloud) permite criar redes virtuais privadas dentro da AWS.
+
+AWS CLI é uma ferramenta de linha de comando para interagir com os serviços da AWS.
+
+A AWS segue o modelo de precificação "pague pelo uso", sem necessidade de investimento inicial em infraestrutura.
