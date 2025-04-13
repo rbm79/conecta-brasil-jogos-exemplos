@@ -43,6 +43,7 @@ A estrutura deste repositório está organizada por pastas, de acordo com as par
 ## 📱 Tecnologias Utilizadas
 
 - **React Native + Expo** – para jogos mobile multiplataforma
+    - Para testar a maioria dos codigos em react, recomendamos a utilização do Expo Snack, uma ferramenta online gratuita que nos permite testar pequenos trechos de codigo muito rapidamente. Acesse o Expo Snack no seguinte endereço - https://snack.expo.dev/
 - **Unity (C#)** – para jogos 2D com mecânicas visuais
 - **IA + Prompt Engineering** – para jogos baseados em texto
 - **Ferramentas No-Code** – como Canva, para jogos web simples
